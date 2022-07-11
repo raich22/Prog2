@@ -1,0 +1,10 @@
+﻿  funkc.c
+C:\Users\Marija\source\repos\kao projekt1\funkc.c(119,3): warning C4033: 'pretraziPica' must return a value
+C:\Users\Marija\source\repos\kao projekt1\funkc.c(164,22): warning C4090: 'function': different 'const' qualifiers
+C:\Users\Marija\source\repos\kao projekt1\funkc.c(164,37): warning C4090: 'function': different 'const' qualifiers
+C:\Users\Marija\source\repos\kao projekt1\funkc.c(167,14): warning C4090: 'return': different 'const' qualifiers
+C:\Users\Marija\source\repos\kao projekt1\funkc.c(182,10): warning C4129: 'c': unrecognized character escape sequence
+C:\Users\Marija\source\repos\kao projekt1\funkc.c(225,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\Marija\source\repos\kao projekt1\funkc.c(226,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
+C:\Users\Marija\source\repos\kao projekt1\funkc.c(141): warning C4715: 'pretraziPica': not all control paths return a value
+  kao projekt1.vcxproj -> C:\Users\Marija\source\repos\kao projekt1\x64\Debug\kao projekt1.exe
